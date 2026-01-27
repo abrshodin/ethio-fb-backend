@@ -244,34 +244,10 @@ The application uses Redis for caching:
 - **Team Data**: Stored for quick access
 - **Cache Invalidation**: Time-based expiration
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👥 Authors
-
-- **abrshodin** - [GitHub Profile](https://github.com/abrshodin)
-
 ## 🙏 Acknowledgments
 
 - [API-Football](https://www.api-football.com/) for providing comprehensive football data
 - [Google Gemini AI](https://ai.google.dev/) for natural language processing capabilities
 - The Go community for excellent libraries and frameworks
 
-## 📞 Support
 
-For support, questions, or feature requests, please open an issue on GitHub.
-
----
-
-Made with ❤️ for Ethiopian Football fans
